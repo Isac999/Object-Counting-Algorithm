@@ -1,0 +1,2 @@
+# Object-Counting-Algorithm
+Algoritmo de contagem de objetos por imagens, feito com Python (numpy e cv2). O algoritmo realiza a leitura da imagem e altera suas cores para um tom acinzentado, transforma a imagem em binários e procura por tons que são mais escuros (thresholding). E por fim, o algoritmo detecta os contornos da imagem e faz a contagem de objetos, juntamente com a rendelização da imagem original e com os tons alterados. 
